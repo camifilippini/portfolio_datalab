@@ -1,0 +1,129 @@
+@font-face {
+    font-family: miFuente;
+    src: url(../font/CabinetGrotesk-Variable.ttf);
+    font-weight: 100 900;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    padding-left: 3rem;
+    padding-top: 2rem;
+    padding-right: 3rem;
+   
+}
+header{
+    color: #2000E2;
+}
+.navegacionText{
+    padding: 0;
+}
+.navegacion{
+    font-family: 'Poppins', sans-serif;  
+   
+}
+.navegacionText{
+    font-size: 1.5rem;
+}
+.arrow{
+    height: 10rem;
+    margin: 0%;
+}
+.titulo{
+    font-family: miFuente;  
+}
+.hola{
+    font-size: 13rem;
+    font-weight: 700;
+}
+.subtitulo{
+    margin-bottom: 15rem;
+}
+.subtituloText{
+    font-family: miFuente;
+    font-size: 5rem;
+}
+.quienSoy{
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+.titulosText{
+    font-family: mifuente;
+    font-size: 5rem;
+    font-weight: 700;
+    color: #2000E2;
+}
+p{
+    font-size: 1.5rem;
+    color: #302E8F;
+    width: 80%;
+}
+.foto_mia{
+    width: 40%;
+       
+}
+.proyectos{
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+.proyectoTitulo{
+    font-family: miFuente;
+    font-size: 3rem ;
+    font-weight: 700;
+} /*No me deja cambiar el tamaño del texto :(*/
+.proyectoText{
+    font-family: 'Poppins', sans-serif ;
+   
+}
+.habilidades{
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+li{
+    color: #302E8F;
+    list-style:none;
+    font-family: 'Poppins', sans-serif ;
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    
+}
+.iconHabilidades{
+    padding-right: 1rem;
+    color: #FD5B7E;
+
+}
+
+
+
+h3{
+    font-family: miFuente;
+    font-size: 3rem;
+    font-weight: 700;
+    color: #302E8F;
+}
+.hablemosForm{
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+.formulario{
+    color: #FD5B7E;
+    font-family: 'Poppins', sans-serif ;
+    font-size: 1.5rem;
+}
+.Contacto{
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+.contactoSubtitulos{
+    font-family: miFuente;
+    font-size: 2rem;
+    font-weight: 700;
+}
+a {
+    text-decoration: none
+}
+.redes{
+    padding: 0;
+   
+}
